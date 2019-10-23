@@ -1,4 +1,6 @@
-lion
-tiger
-leopard
-turtle
+lion green
+tiger black
+leopard yellow
+turtle green
+mouse darkred
+mondy lightgreen
