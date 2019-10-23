@@ -2,3 +2,6 @@ lion
 tiger
 leopard
 turtle
+Puppy
+Cat
+Monkey
