@@ -1,7 +1,6 @@
 lion red
 tiger
 leopard
-turtle
-Puppy
-Cat
-Monkey
+turtle green
+mouse darkred
+CAT lightgreen
